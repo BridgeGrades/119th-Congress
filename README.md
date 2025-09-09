@@ -350,5 +350,7 @@ To open an issue, head to the [Issues tab](../../issues) and describe your sugge
 We’ll review all submissions and discuss next steps.  
 
 
+---
+
 *Last updated: August 2025*
 *Data current through: 119th U.S. Congress (August 2025)*
