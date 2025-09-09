@@ -5,9 +5,10 @@
 <div align="center">
 
 [![GitHub issues](https://img.shields.io/github/issues/BridgeGrades/119th-Congress)](../../issues)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-orange?logo=Jupyter)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 ![Congress](https://img.shields.io/badge/Congress-119th-purple)
-![Data Updated](https://img.shields.io/badge/Data%20Updated-August%202025-red)
+![Data Updated](https://img.shields.io/badge/Data%20Updated-August%202025-009688)
 
 
 [About](#-bridge-grades-119th-u.s.-congress-bipartisan-collaboration-analysis) |
