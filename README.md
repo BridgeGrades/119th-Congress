@@ -328,7 +328,7 @@ We are continuously improving this repository. At the moment, the workflows are 
 Our planned improvements include:  
 
 - 🔄 Migrating notebook workflows into Python scripts for easier automation and reproducibility.  
-- 📅 Developing an automated pipeline that will update the data on a **bi-monthly** schedule.  
+- 📅 Developing an automated pipeline that will update the data on a **monthly** schedule.  
 - 🏗️ General refactoring and cleanup to support more robust, production-ready usage.  
 
 These updates will streamline the process and reduce the need for manual execution of notebooks.
