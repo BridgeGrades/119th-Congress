@@ -1,0 +1,552 @@
+name,bioguide_id,num_cross_party_cosponsored_bills,rank
+Brian K. Fitzpatrick,F000466,433,1
+Donald G. Davis,D000230,240,2
+Jimmy Panetta,P000613,167,3
+Eugene Simon Vindman,V000138,161,4
+Josh Gottheimer,G000583,160,5
+Michael Lawler,L000599,153,6
+Thomas R. Suozzi,S001201,130,7
+Don Bacon,B001298,126,8
+Amy Klobuchar,K000367,117,9
+Angie Craig,C001119,108,10
+Josh Harder,H001090,107,11
+Christopher A. Coons,C001088,106,12
+Maggie Hassan,H001076,105,13
+Joe Neguse,N000191,98,14
+Raphael Warnock,W000790,98,15
+Angus S. King,K000383,96,16
+Eleanor Holmes Norton,N000147,95,17
+Jeanne Shaheen,S001181,92,18
+Catherine Cortez Masto,C001113,89,19
+Jim Costa,C001059,89,20
+Richard Blumenthal,B001277,87,21
+Jill N. Tokuda,T000487,86,22
+Susie Lee,L000590,86,23
+Gary Peters,P000595,85,24
+Mark Kelly,K000377,85,25
+Nikki Budzinski,B001315,83,26
+Darren Soto,S001200,81,27
+Suzan K. DelBene,D000617,81,28
+Terri A. Sewell,S001185,81,29
+Sharice Davids,D000629,80,30
+Salud O. Carbajal,C001112,79,31
+Susan M. Collins,C001035,79,32
+Raja Krishnamoorthi,K000391,77,33
+Zachary Nunn,N000193,76,34
+Debbie Dingell,D000624,75,35
+Josh Riley,R000622,74,36
+Deborah K. Ross,R000305,74,37
+Chris Pappas,P000614,74,38
+Chrissy Houlahan,H001085,73,39
+Ruben Gallego,G000574,73,40
+Bradley Scott Schneider,S001190,73,41
+Brittany Pettersen,P000620,73,42
+Christopher R. Deluzio,D000530,72,43
+Dina Titus,T000468,72,44
+Eric Sorensen,S001225,71,45
+Mark R. Warner,W000805,70,46
+John W. Hickenlooper,H000273,70,47
+Jared F. Golden,G000592,70,48
+Julia Brownley,B001285,69,49
+Gabe Vasquez,V000136,69,50
+Cory Booker,B001288,69,51
+John K. Fetterman,F000479,68,52
+Sarah McBride,M001238,67,53
+Alex Padilla,P000145,67,54
+Shri Thanedar,T000488,67,55
+Young Kim,K000397,67,56
+Jared Moskowitz,M001217,66,57
+Michael Bennet,B001267,66,58
+Marc A. Veasey,V000131,66,59
+Paul Tonko,T000469,66,60
+Seth Moulton,M001196,65,61
+Tina Smith,S001203,65,62
+Jason Crow,C001121,64,63
+Marie Gluesenkamp Perez,G000600,64,64
+Timothy M. Kaine,K000384,64,65
+Hillary J. Scholten,S001221,64,66
+Laura Gillen,G000602,63,67
+Peter Welch,W000800,63,68
+Thomas Roland Tillis,T000476,62,69
+Henry Cuellar,C001063,61,70
+Joseph D. Morelle,M001206,61,71
+Steve Cohen,C001068,59,72
+Greg Landsman,L000601,59,73
+Ed Case,C001055,58,74
+Jacky Rosen,R000608,58,75
+Troy A. Carter,C001125,58,76
+Ben R. LujÃ¡n,L000570,57,77
+Kim Schrier,S001216,57,78
+Sanford D. Bishop,B000490,57,79
+Lisa Murkowski,M001153,56,80
+Ted Lieu,L000582,55,81
+Suzanne Bonamici,B001278,54,82
+Ritchie Torres,T000486,53,83
+Debbie Wasserman Schultz,W000797,53,84
+Richard J. Durbin,D000563,52,85
+Frank J. Mrvan,M001214,52,86
+Bill Cassidy,C001075,52,87
+Tammy Baldwin,B001230,52,88
+Jennifer A. Kiggans,K000399,52,89
+Sheldon Whitehouse,W000802,51,90
+Seth Magaziner,M001223,50,91
+Greg Stanton,S001211,50,92
+Kirsten E. Gillibrand,G000555,50,93
+Marsha Blackburn,B001243,49,94
+Janelle S. Bynum,B001326,49,95
+J. Luis Correa,C001110,48,96
+Timothy M. Kennedy,K000402,48,97
+Mazie K. Hirono,H001042,48,98
+Scott H. Peters,P000608,48,99
+Juan Ciscomani,C001133,48,100
+David G. Valadao,V000129,48,101
+Jefferson Van Drew,V000133,48,102
+Kristen McDonald Rivet,M001237,47,103
+Shelley Moore Capito,C001047,47,104
+Nicole Malliotakis,M000317,47,105
+Ro Khanna,K000389,47,106
+Maria Cantwell,C000127,46,107
+Jeff Merkley,M001176,46,108
+Chellie Pingree,P000597,46,109
+Mike Quigley,Q000023,46,110
+Rashida Tlaib,T000481,46,111
+Maria Elvira Salazar,S000168,45,112
+Chuck Grassley,G000386,45,113
+April McClain Delaney,M001232,45,114
+Mikie Sherrill,S001207,45,115
+Mike Rounds,R000605,45,116
+Gwen Moore,M001160,45,117
+Vicente Gonzalez,G000581,44,118
+Chris Van Hollen,V000128,44,119
+Patrick Ryan,R000579,44,120
+Donald Norcross,N000188,44,121
+Kevin Cramer,C001096,44,122
+James C. Moylan,M001219,44,123
+Judy Chu,C001080,44,124
+Elissa Slotkin,S001208,44,125
+Danny K. Davis,D000096,44,126
+Haley M. Stevens,S001215,44,127
+Brad Sherman,S000344,44,128
+Steve Daines,D000618,43,129
+AndrÃ© Carson,C001072,43,130
+Jerrold Nadler,N000002,43,131
+Martin Heinrich,H001046,42,132
+Dan Sullivan,S001198,42,133
+Sheila Cherfilus-McCormick,C001127,42,134
+Mark Pocan,P000607,41,135
+Andrea Salinas,S001226,41,136
+John Cornyn,C001056,40,137
+Jon Ossoff,O000174,40,138
+Morgan McGarvey,M001220,40,139
+"Henry C. ""Hank"" Johnson",J000288,40,140
+Marilyn Strickland,S001159,39,141
+John Garamendi,G000559,39,142
+Kathy Castor,C001066,39,143
+Tammy Duckworth,D000622,38,144
+Lloyd Doggett,D000399,38,145
+Maggie Goodlander,G000604,38,146
+Robin L. Kelly,K000385,38,147
+Adam B. Schiff,S001150,37,148
+Daniel S. Goldman,G000599,37,149
+Brian Schatz,S001194,37,150
+Mike Thompson,T000460,37,151
+Melanie A. Stansbury,S001218,37,152
+Jahana Hayes,H001081,37,153
+Jerry Moran,M000934,36,154
+Nanette Diaz BarragÃ¡n,B001300,36,155
+Ron Wyden,W000779,36,156
+Andrew R. Garbarino,G000597,36,157
+Kevin Mullin,M001225,36,158
+George Latimer,L000606,36,159
+James Lankford,L000575,35,160
+Steven Horsford,H001066,35,161
+Emanuel Cleaver,C001061,35,162
+Jay Obernolte,O000019,35,163
+Grace Meng,M001188,35,164
+Brendan F. Boyle,B001296,35,165
+Betty McCollum,M001143,34,166
+Todd Young,Y000064,34,167
+Gus M. Bilirakis,B001257,34,168
+Bennie G. Thompson,T000193,33,169
+Elizabeth A. Warren,W000817,33,170
+Gabe Amo,A000380,33,171
+William R. Keating,K000375,33,172
+Claudia Tenney,T000478,33,173
+Julie Johnson,J000310,33,174
+Suhas Subramanyam,S001230,33,175
+Emilia Strong Sykes,S001223,32,176
+David Scott,S001157,32,177
+Lori Trahan,T000482,32,178
+Herbert C. Conaway,C001136,32,179
+Ami Bera,B001287,32,180
+Doris O. Matsui,M001163,32,181
+John Boozman,B001236,31,182
+Jake Auchincloss,A000148,31,183
+Patty Murray,M001111,31,184
+Roger F. Wicker,W000437,31,185
+John B. Larson,L000557,31,186
+Bill Foster,F000454,31,187
+Mary Gay Scanlon,S001205,31,188
+Mike Crapo,C000880,31,189
+Derek Tran,T000491,31,190
+Linda T. SÃ¡nchez,S001156,31,191
+Ilhan Omar,O000173,30,192
+Angela Alsobrooks,A000382,30,193
+Mike Levin,L000593,30,194
+Joe Wilson,W000795,30,195
+James P. McGovern,M000312,30,196
+Lucy McBath,M001208,30,197
+Wesley Bell,B001324,29,198
+Jonathan L. Jackson,J000309,29,199
+Nellie Pou,P000621,29,200
+Marcy Kaptur,K000009,29,201
+Shomari Figures,F000481,29,202
+Val T. Hoyle,H001094,29,203
+Jennifer L. McClellan,M001227,29,204
+Valerie P. Foushee,F000477,28,205
+Jack Bergman,B001301,28,206
+Cindy Hyde-Smith,H001079,28,207
+Donald S. Beyer,B001292,28,208
+Thomas H. Kean,K000398,28,209
+Stephen F. Lynch,L000562,28,210
+Eric Swalwell,S001193,27,211
+Rick Scott,S001217,27,212
+James A. Himes,H001047,27,213
+Adam Gray,G000605,27,214
+John H. Rutherford,R000609,27,215
+Yvette D. Clarke,C001067,27,216
+James E. Risch,R000584,27,217
+Gerald E. Connolly,C001078,27,218
+Andy Kim,K000394,27,219
+Derrick Van Orden,V000135,27,220
+Raul Ruiz,R000599,27,221
+John Hoeven,H001061,27,222
+Katie Britt,B001319,26,223
+Madeleine Dean,D000631,26,224
+Jamie Raskin,R000606,26,225
+Laura Friedman,F000483,26,226
+Zoe Lofgren,L000397,26,227
+Sarah Elfreth,E000301,26,228
+Janice D. Schakowsky,S001145,26,229
+Sean Casten,C001117,26,230
+Robert J. Wittman,W000804,26,231
+Nick LaLota,L000598,26,232
+Robert P. Bresnahan,B001327,25,233
+Lisa Blunt Rochester,B001303,25,234
+Joyce Beatty,B001281,25,235
+Cynthia M. Lummis,L000571,25,236
+Edward J. Markey,M000133,25,237
+Glenn Thompson,T000467,25,238
+Roger Marshall,M001198,25,239
+Nydia M. VelÃ¡zquez,V000081,25,240
+Aumua Amata Coleman Radewagen,R000600,25,241
+Gregory W. Meeks,M001137,24,242
+John Curtis,C001114,24,243
+Charles E. Schumer,S000148,24,244
+Michael R. Turner,T000463,24,245
+Lois Frankel,F000462,24,246
+Kelly Morrison,M001234,24,247
+Robert Garcia,G000598,24,248
+Tim Sheehy,S001232,24,249
+Joni Ernst,E000295,24,250
+James C. Justice,J000312,23,251
+Cleo Fields,F000110,23,252
+Pete Ricketts,R000618,23,253
+John W. Mannion,M001231,23,254
+Joaquin Castro,C001091,23,255
+Dan Newhouse,N000189,23,256
+Pramila Jayapal,J000298,23,257
+Dwight Evans,E000296,23,258
+Adriano Espaillat,E000297,22,259
+Alma S. Adams,A000370,22,260
+Mike Kelly,K000376,22,261
+Joe Courtney,C001069,22,262
+Jared Huffman,H001068,22,263
+Becca Balint,B001318,22,264
+Norma J. Torres,T000474,22,265
+Josh Hawley,H001089,21,266
+Sara Jacobs,J000305,21,267
+Jimmy Gomez,G000585,21,268
+Shontel M. Brown,B001313,21,269
+Nikema Williams,W000788,21,270
+Maxwell Frost,F000476,21,271
+Gilbert Ray Cisneros,C001123,20,272
+Veronica Escobar,E000299,20,273
+CLEO FIELDS,F000110,20,274
+Teresa Leger Fernandez,L000273,20,275
+Frank Pallone,P000034,20,276
+John Barrasso,B001261,20,277
+Kweisi Mfume,M000687,19,278
+Ted Budd,B001305,19,279
+Ken Calvert,C000059,19,280
+Adam Smith,S000510,19,281
+Juan Vargas,V000130,19,282
+Delia C. Ramirez,R000617,19,283
+Ben R. Lujan,L000570,18,284
+Johnny Olszewski,O000176,18,285
+Ted Cruz,C001098,18,286
+Frederica S. Wilson,W000808,18,287
+Doug LaMalfa,L000578,18,288
+Mariannette Miller-Meeks,M001215,18,289
+John F. Reed,R000122,18,290
+Bonnie Watson Coleman,W000822,18,291
+Blake D. Moore,M001213,17,292
+LaMonica McIver,M001229,17,293
+Mike Carey,C001126,17,294
+"Earl L. ""Buddy"" Carter",C001103,17,295
+George Whitesides,W000830,17,296
+Tony Wied,W000829,17,297
+"JesÃºs G. ""Chuy"" GarcÃ­a",G000586,17,298
+Richard McCormick,M001218,17,299
+Nicholas A. Langworthy,L000600,17,300
+Lizzie Fletcher,F000468,17,301
+Deb Fischer,F000463,17,302
+John Kennedy,K000393,16,303
+Kimberlyn King-Hinds,K000404,16,304
+Daniel Meuser,M001204,16,305
+Richard E. Neal,N000015,16,306
+Lindsey Graham,G000359,16,307
+Jacklyn Rosen,R000608,16,308
+Rudy Yakym,Y000067,16,309
+Stacey E. Plaskett,P000610,16,310
+Pete Stauber,S001212,16,311
+Sylvia R. Garcia,G000587,16,312
+Christopher S. Murphy,M001169,16,313
+Bill Huizenga,H001058,16,314
+John R. Moolenaar,M001194,16,315
+Bernie Sanders,S000033,15,316
+Jasmine Crockett,C001130,15,317
+Glenn Ivey,I000058,15,318
+Diana DeGette,D000197,15,319
+Mark E. Amodei,A000369,15,320
+Lauren Underwood,U000040,15,321
+Christopher H. Smith,S000522,15,322
+Brad Finstad,F000475,14,323
+Gregory F. Murphy,M001210,14,324
+Steny H. Hoyer,H000874,14,325
+August Pfluger,P000048,14,326
+Summer L. Lee,L000602,14,327
+Yassamin Ansari,A000381,14,328
+Rick Larsen,L000560,14,329
+Tom Cotton,C001095,14,330
+Robert Menendez,M001226,14,331
+Rosa L. DeLauro,D000216,14,332
+Chuck Edwards,E000246,14,333
+Sydney Kamlager-Dove,K000400,13,334
+Michael Baumgartner,B001322,13,335
+David H. McCormick,M001243,13,336
+Maxine Waters,W000187,13,337
+Bernie Moreno,M001242,13,338
+Mark Takano,T000472,13,339
+Dan Crenshaw,C001120,13,340
+Vern Buchanan,B001260,13,341
+Markwayne Mullin,M001190,13,342
+Elise M. Stefanik,S001196,12,343
+Gabe Evans,E000300,12,344
+"Charles J. ""Chuck"" Fleischmann",F000459,12,345
+Maxine Dexter,D000635,12,346
+Abraham J. Hamadeh,H001098,12,347
+Michael T. McCaul,M001157,12,348
+Darrell Issa,I000056,12,349
+Tracey Mann,M000871,12,350
+Sam T. Liccardo,L000607,12,351
+Dave Min,M001241,12,352
+Eric S. Schmitt,S001227,12,353
+Jim Banks,B001299,12,354
+Darin LaHood,L000585,11,355
+Al Green,G000553,11,356
+Ryan Mackenzie,M001230,11,357
+Russ Fulcher,F000469,11,358
+Rand Paul,P000603,11,359
+Jeff Hurd,H001100,11,360
+David Rouzer,R000603,11,361
+Stephanie I. Bice,B000740,11,362
+Michael A. Rulli,R000619,11,363
+David P. Joyce,J000295,11,364
+Mark DeSaulnier,D000623,11,365
+Emily Randall,R000621,11,366
+Mike Ezell,E000235,11,367
+Mike Flood,F000474,10,368
+Nancy Mace,M000194,10,369
+RaÃºl M. Grijalva,G000551,10,370
+Mike Bost,B001295,10,371
+Lance Gooden,G000589,10,372
+Nicholas J. Begich,B001323,10,373
+Martin T. Heinrich,H001046,10,374
+Dusty Johnson,J000301,10,375
+Michael K. Simpson,S001148,10,376
+Max L. Miller,M001222,10,377
+John Joyce,J000302,10,378
+Tommy Tuberville,T000278,10,379
+Mike Lee,L000577,10,380
+David Kustoff,K000392,10,381
+Pablo Jose HernÃ¡ndez,H001103,9,382
+Ryan K. Zinke,Z000018,9,383
+Alexandria Ocasio-Cortez,O000172,9,384
+Troy Balderson,B001306,9,385
+"Eric A. ""Rick"" Crawford",C001087,9,386
+Tim Burchett,B001309,9,387
+Brian J. Mast,M001199,9,388
+Tony Gonzales,G000594,9,389
+Scott Franklin,F000472,9,390
+James R. Baird,B001307,9,391
+Kevin Kiley,K000401,9,392
+Neal P. Dunn,D000628,8,393
+Glenn Grothman,G000576,8,394
+Tom Barrett,B001321,8,395
+Bill Hagerty,H000601,8,396
+Burgess Owens,O000086,8,397
+Trent Kelly,K000388,8,398
+Bryan Steil,S001213,8,399
+Steve Womack,W000809,8,400
+Carol D. Miller,M001205,8,401
+Austin Scott,S001189,8,402
+Richard Hudson,H001067,8,403
+Ashley Moody,M001244,8,404
+John R. Curtis,C001114,8,405
+Tim Scott,S001184,8,406
+Lateefah Simon,S001231,7,407
+Anna Paulina Luna,L000596,7,408
+John James,J000307,7,409
+Frank D. Lucas,L000491,7,410
+Troy E. Nehls,N000026,7,411
+Randy Feenstra,F000446,7,412
+Ann Wagner,W000812,7,413
+Andy Barr,B001282,7,414
+"Robert C. ""Bobby"" Scott",S000185,7,415
+William R. Timmons,T000480,7,416
+Scott Fitzgerald,F000471,7,417
+Barry Moore,M001212,7,418
+John Thune,T000250,7,419
+Erin Houchin,H001093,7,420
+Morgan Luttrell,L000603,7,421
+Mario Diaz-Balart,D000600,7,422
+Nathaniel Moran,M001224,7,423
+Pete Aguilar,A000371,7,424
+Robert B. Aderholt,A000055,7,425
+Sam Graves,G000546,6,426
+Barry Loudermilk,L000583,6,427
+Mark Alford,A000379,6,428
+Tom Cole,C001053,6,429
+Keith Self,S001224,6,430
+Diana Harshbarger,H001086,6,431
+Jefferson Shreve,S001229,6,432
+Pat Fallon,F000246,6,433
+Lisa C. McClain,M001136,6,434
+Ashley Hinson,H001091,6,435
+Vince Fong,F000480,6,436
+Mark B. Messmer,M001233,6,437
+Ayanna Pressley,P000617,6,438
+Aaron Bean,B001314,6,439
+Nancy Pelosi,P000197,6,440
+Monica De La Cruz,D000594,6,441
+Lloyd Smucker,S001199,6,442
+Luz M. Rivas,R000620,6,443
+J. French Hill,H001072,6,444
+Laurel M. Lee,L000597,6,445
+Brian Jack,J000311,5,446
+Pete Sessions,S000250,5,447
+Greg Casar,C001131,5,448
+Dale W. Strong,S001220,5,449
+Russell Fry,F000478,5,450
+Clay Higgins,H001077,5,451
+David Schweikert,S001183,5,452
+Addison P. McDowell,M001240,5,453
+Carlos A. Gimenez,G000593,5,454
+Robert E. Latta,L000566,5,455
+Randy K. Weber,W000814,5,456
+Daniel Webster,W000806,5,457
+Ben Cline,C001118,5,458
+Craig A. Goldman,G000601,5,459
+John R. Carter,C001051,5,460
+Sylvester Turner,T000489,5,461
+Mitch McConnell,M000355,5,462
+Derek Schmidt,S001228,5,463
+Rick W. Allen,A000372,5,464
+Cory Mills,M001216,5,465
+Celeste Maloy,M001228,5,466
+Jeff Crank,C001137,5,467
+Kat Cammack,C001039,4,468
+Harriet M. Hageman,H001096,4,469
+Thomas P. Tiffany,T000165,4,470
+Michael Guest,G000591,4,471
+Ron Johnson,J000293,4,472
+Elijah Crane,C001132,4,473
+Andy Biggs,B001302,4,474
+Julia Letlow,L000595,4,475
+Guy Reschenthaler,R000610,4,476
+Pablo JosÃ© HernÃ¡ndez,H001103,4,477
+Tim Walberg,W000798,4,478
+Beth Van Duyne,V000134,4,479
+Mark E. Green,G000590,4,480
+Andy Harris,H001052,4,481
+Adrian Smith,S001172,4,482
+Andrew S. Clyde,C001116,3,483
+Bernard Sanders,S000033,3,484
+David J. Taylor,T000490,3,485
+Thomas Massie,M001184,3,486
+Warren Davidson,D000626,3,487
+Mike Collins,C001129,3,488
+Chip Roy,R000614,3,489
+Pat Harrigan,H001101,3,490
+Jon Husted,H001104,3,491
+David McCormick,M001243,3,492
+Mike Rogers,R000575,3,493
+Byron Donalds,D000032,3,494
+Michael Cloud,C001115,3,495
+John J. McGuire,M001239,3,496
+Tim Moore,M001236,3,497
+Paul A. Gosar,G000565,3,498
+Tom McClintock,M001177,2,499
+Hakeem S. Jeffries,J000294,2,500
+Mike Haridopolos,H001099,2,501
+Brett Guthrie,G000558,2,502
+W. Gregory Steube,S001214,2,503
+Marjorie Taylor Greene,G000596,2,504
+Virginia Foxx,F000450,2,505
+Lauren Boebert,B000825,2,506
+Brad Knott,K000405,2,507
+Cliff Bentz,B000668,2,508
+Michelle Fischbach,F000470,2,509
+James Comer,C001108,2,510
+John W. Rose,R000612,2,511
+Mike Kennedy,K000403,2,512
+Ralph Norman,N000190,2,513
+H. Morgan Griffith,G000568,2,514
+Gary J. Palmer,P000609,2,515
+Scott Perry,P000605,2,516
+Harold Rogers,R000395,2,517
+Wesley Hunt,H001095,1,518
+Ron Estes,E000298,1,519
+Jodey C. Arrington,A000375,1,520
+Riley M. Moore,M001235,1,521
+Tom Emmer,E000294,1,522
+Jake Ellzey,E000071,1,523
+Sheri Biggs,B001325,1,524
+Josh Brecheen,B001317,1,525
+Troy Downing,D000634,1,526
+Scott DesJarlais,D000616,1,527
+Ronny Jackson,J000304,1,528
+James E. Clyburn,C000537,1,529
+Kevin Hern,H001082,1,530
+Bruce Westerman,W000821,1,531
+Roger Williams,W000816,1,532
+Brandon Gill,G000603,1,533
+Andrew Ogles,O000175,1,534
+Jim Jordan,J000289,1,535
+Marco Rubio,R000595,1,536
+J. D. Vance,V000137,1,537
+Jimmy Patronis,P000622,0,538
+Victoria Spartz,S000929,0,539
+Jason Smith,S001195,0,540
+Randy Fine,F000484,0,541
+Julie Fedorchak,F000482,0,542
+Katherine M. Clark,C001101,0,543
+Brian Babin,B001291,0,544
+Marlin A. Stutzman,S001188,0,545
+Robert F. Onder,O000177,0,546
+Eric Burlison,B001316,0,547
+Mary E. Miller,M001211,0,548
+Mark Harris,H001102,0,549
+Mike Johnson,J000299,0,550
+Steve Scalise,S001176,0,551
