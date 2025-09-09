@@ -1,0 +1,5 @@
+# Ignore everything inside any "Input files" subdirectory
+Data/**/Input files/*
+
+# But keep .gitkeep so folder structure remains
+!Data/**/Input files/.gitkeep
