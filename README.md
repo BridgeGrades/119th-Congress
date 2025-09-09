@@ -2,21 +2,24 @@
   <img src="assets/bridge_grades_logo.png" alt="Bridge Grades Logo" width="400"/>
 </div>
 
+<div align="center">
+
 [![GitHub issues](https://img.shields.io/github/issues/BridgeGrades/119th-Congress)](../../issues)
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 ![Congress](https://img.shields.io/badge/Congress-119th-purple)
 ![Data Updated](https://img.shields.io/badge/Data%20Updated-August%202025-red)
 
-<div align="center">
 
-[About](#-bridge-grades-119th-u.s.-congress-bipartisan-collaboration-analysis) •
-[Quickstart](#-getting-started) •
-[Data Sources](#-data-sources) •
-[Data Pipeline](#-data-pipeline) •
-[Methodology](#-methodology-how-we-calculate-bridge-grades) •
-[Repo Structure](#️-repository-structure) •
-[Roadmap](#-roadmap) •
+[About](#-bridge-grades-119th-u.s.-congress-bipartisan-collaboration-analysis) |
+[Quickstart](#-getting-started) |
+[Data Sources](#-data-sources) |
+[Data Pipeline](#-data-pipeline) |
+[Methodology](#-methodology-how-we-calculate-bridge-grades) |
+[Repo Structure](#️-repository-structure) |
+[Roadmap](#-roadmap) |
 [Contribute](#-contributing)  
+
+<br/><br/>
 
 [🐞 Report Bug](https://github.com/BridgeGrades/119th-Congress/issues/new/choose) •
 [✨ Request Feature](https://github.com/BridgeGrades/119th-Congress/issues/new/choose) •
