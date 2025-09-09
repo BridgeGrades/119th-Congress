@@ -55,13 +55,12 @@ These principles ensure that Bridge Grades measures **how** politicians behave r
 ## 📊 Data Sources
 
 ### Data Availability
-<div style="border-left: 4px solid #d73a49; padding: 0.75em 1em; margin: 1em 0;">
-  <p><strong>⚠️ Raw Data</strong></p>
-  <p>This repository does not include the raw input files gathered from external sources. These sources are public, but we do not redistribute their raw files here in order to respect their licensing and usage policies. 
-  To reproduce the pipeline, you must <strong>obtain these inputs independently</strong> and place them in the corresponding 
-  <code>Input files/</code> directories under each source folder in <code>Data/</code>.</p>
-  <p><em>ℹ️ Instructions for downloading the raw sources are provided below.</em></p>
-</div>
+> ⚠️ **Raw Data**  
+> This repository does not include the raw input files gathered from external sources.  
+> These sources are public, but we do not redistribute their raw files here in order to respect their licensing and usage policies.  
+> To reproduce the pipeline, you must **obtain these inputs independently** and place them in the corresponding `Input files/` directories under each source folder in `Data/`.  
+>  
+> ℹ️ *Instructions for downloading the raw sources are provided below.*  
 
 <div style="border-left: 4px solid #28a745; padding: 0.75em 1em; margin: 1em 0;">
   <p><strong>✅ Processed Data</strong></p>
