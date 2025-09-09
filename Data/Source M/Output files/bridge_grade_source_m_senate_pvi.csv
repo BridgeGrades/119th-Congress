@@ -1,0 +1,101 @@
+Name,Chamber,bioguide_id,Party,PVI_Party,PVI_Number,PVI_Party_Diff
+Tim Sheehy,Senate,S001232,Republican,R,10,False
+Ben Ray Luján,Senate,L000570,Democratic,D,4,False
+Josh Hawley,Senate,H001089,Republican,R,9,False
+Peter Welch,Senate,W000800,Democratic,D,17,False
+Bernie Moreno,Senate,M001242,Republican,R,5,False
+Ashley Moody,Senate,M001244,Republican,R,5,False
+John R. Curtis,Senate,C001114,Republican,R,11,False
+Jon Husted,Senate,H001104,Republican,R,5,False
+Eric Schmitt,Senate,S001227,Republican,R,9,False
+Angela D. Alsobrooks,Senate,A000382,Democratic,D,15,False
+Katie Boyd Britt,Senate,B001319,Republican,R,15,False
+Ted Budd,Senate,B001305,Republican,R,1,False
+Elissa Slotkin,Senate,S001208,Democratic,EVEN,0,True
+Andy Kim,Senate,K000394,Democratic,D,4,False
+David McCormick,Senate,M001243,Republican,R,1,False
+Jim Banks,Senate,B001299,Republican,R,9,False
+Todd Young,Senate,Y000064,Republican,R,9,False
+Ron Wyden,Senate,W000779,Democratic,D,8,False
+Raphael G. Warnock,Senate,W000790,Democratic,R,0,True
+Elizabeth Warren,Senate,W000817,Democratic,D,14,False
+Sheldon Whitehouse,Senate,W000802,Democratic,D,8,False
+Mark R. Warner,Senate,W000805,Democratic,D,3,False
+Roger F. Wicker,Senate,W000437,Republican,R,11,False
+Chris Van Hollen,Senate,V000128,Democratic,D,15,False
+Tommy Tuberville,Senate,T000278,Republican,R,15,False
+Tina Smith,Senate,S001203,Democratic,D,3,False
+Thomas Tillis,Senate,T000476,Republican,R,1,False
+Dan Sullivan,Senate,S001198,Republican,R,6,False
+John Thune,Senate,T000250,Republican,R,15,False
+Rick Scott,Senate,S001217,Republican,R,5,False
+Jeanne Shaheen,Senate,S001181,Democratic,D,2,False
+Mike Rounds,Senate,R000605,Republican,R,15,False
+Brian Schatz,Senate,S001194,Democratic,D,13,False
+Tim Scott,Senate,S001184,Republican,R,8,False
+Charles E. Schumer,Senate,S000148,Democratic,D,8,False
+Bernard Sanders,Senate,S000033,Independent,D,0,True
+Adam B. Schiff,Senate,S001150,Democratic,D,12,False
+Pete Ricketts,Senate,R000618,Republican,R,10,False
+Jacky Rosen,Senate,R000608,Democratic,R,0,True
+Gary C. Peters,Senate,P000595,Democratic,EVEN,0,True
+James E. Risch,Senate,R000584,Republican,R,18,False
+Jack Reed,Senate,R000122,Democratic,D,8,False
+Alex Padilla,Senate,P000145,Democratic,D,12,False
+Jon Ossoff,Senate,O000174,Democratic,R,0,True
+Rand Paul,Senate,P000603,Republican,R,15,False
+Patty Murray,Senate,M001111,Democratic,D,10,False
+Markwayne Mullin,Senate,M001190,Republican,R,17,False
+Christopher Murphy,Senate,M001169,Democratic,D,8,False
+Jerry Moran,Senate,M000934,Republican,R,8,False
+Lisa Murkowski,Senate,M001153,Republican,R,6,False
+Roger Marshall,Senate,M001198,Republican,R,8,False
+Cynthia M. Lummis,Senate,L000571,Republican,R,23,False
+Jeff Merkley,Senate,M001176,Democratic,D,8,False
+Edward J. Markey,Senate,M000133,Democratic,D,14,False
+Mitch McConnell,Senate,M000355,Republican,R,15,False
+Angus S. King,Senate,K000383,Independent,D,0,True
+Amy Klobuchar,Senate,K000367,Democratic,D,3,False
+Mike Lee,Senate,L000577,Republican,R,11,False
+James Lankford,Senate,L000575,Republican,R,17,False
+Mark Kelly,Senate,K000377,Democratic,R,0,True
+John Kennedy,Senate,K000393,Republican,R,11,False
+Tim Kaine,Senate,K000384,Democratic,D,3,False
+James C. Justice,Senate,J000312,Republican,R,21,False
+Cindy Hyde-Smith,Senate,H001079,Republican,R,11,False
+Ron Johnson,Senate,J000293,Republican,EVEN,0,True
+John Hoeven,Senate,H001061,Republican,R,18,False
+Mazie K. Hirono,Senate,H001042,Democratic,D,13,False
+John W. Hickenlooper,Senate,H000273,Democratic,D,6,False
+Bill Hagerty,Senate,H000601,Republican,R,14,False
+Margaret Wood Hassan,Senate,H001076,Democratic,D,2,False
+Martin Heinrich,Senate,H001046,Democratic,D,4,False
+Chuck Grassley,Senate,G000386,Republican,R,6,False
+John Fetterman,Senate,F000479,Democratic,R,0,True
+Ruben Gallego,Senate,G000574,Democratic,R,0,True
+Deb Fischer,Senate,F000463,Republican,R,10,False
+Kirsten E. Gillibrand,Senate,G000555,Democratic,D,8,False
+Lindsey Graham,Senate,G000359,Republican,R,8,False
+Joni Ernst,Senate,E000295,Republican,R,6,False
+Ted Cruz,Senate,C001098,Republican,R,6,False
+Steve Daines,Senate,D000618,Republican,R,10,False
+Tammy Duckworth,Senate,D000622,Democratic,D,6,False
+Richard J. Durbin,Senate,D000563,Democratic,D,6,False
+Mike Crapo,Senate,C000880,Republican,R,18,False
+Catherine Cortez Masto,Senate,C001113,Democratic,R,0,True
+Kevin Cramer,Senate,C001096,Republican,R,18,False
+Tom Cotton,Senate,C001095,Republican,R,15,False
+John Cornyn,Senate,C001056,Republican,R,6,False
+Christopher A. Coons,Senate,C001088,Democratic,D,8,False
+Bill Cassidy,Senate,C001075,Republican,R,11,False
+Susan M. Collins,Senate,C001035,Republican,D,0,True
+Shelley Moore Capito,Senate,C001047,Republican,R,21,False
+Maria Cantwell,Senate,C000127,Democratic,D,10,False
+Lisa Blunt Rochester,Senate,B001303,Democratic,D,8,False
+Cory A. Booker,Senate,B001288,Democratic,D,4,False
+Richard Blumenthal,Senate,B001277,Democratic,D,8,False
+John Boozman,Senate,B001236,Republican,R,15,False
+John Barrasso,Senate,B001261,Republican,R,23,False
+Michael F. Bennet,Senate,B001267,Democratic,D,6,False
+Tammy Baldwin,Senate,B001230,Democratic,EVEN,0,True
+Marsha Blackburn,Senate,B001243,Republican,R,14,False
