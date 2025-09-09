@@ -1,0 +1,43 @@
+# Bridge Grades: 119th U.S. Congress Analysis
+# Python package dependencies
+
+# Core data manipulation and analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Scientific computing and statistics
+scipy>=1.10.0
+
+# Data visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Progress bars and UI
+tqdm>=4.65.0
+
+# String matching and fuzzy search
+rapidfuzz>=3.0.0
+
+# Web requests and API calls
+requests>=2.28.0
+
+# YAML file processing
+PyYAML>=6.0
+
+# Excel file handling (included with pandas but explicit for clarity)
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Standard library modules (no installation needed, listed for reference)
+# - os
+# - time
+# - json
+# - glob
+# - warnings
+# - collections
+# - datetime
