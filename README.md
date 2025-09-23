@@ -24,7 +24,7 @@
 
 [🐞 Report Bug](https://github.com/BridgeGrades/119th-Congress/issues/new/choose) •
 [✨ Request Feature](https://github.com/BridgeGrades/119th-Congress/issues/new/choose) •
-[📖 Docs](https://zharicks.github.io/Bridge-Grades-Documentation/Intro.html)
+[📖 Docs](https://bridgegrades.github.io/Bridge-Grades-Documentation/Intro.html)
 
 </div>
 
